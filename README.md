@@ -31,6 +31,20 @@ To explore the philosophical underpinnings and long-term goals further, see: [VI
 
 ---
 
+## Philosophical Stance & Purpose
+
+It is crucial to understand what NASGVAM *is* and *is not*, especially differentiating it from purely metaphysical or technological endpoints.
+
+* **Acknowledging Subjectivity:** We recognize that every person understands and sees the world differently. It is unlikely that any single human will ever fully grasp the entirety of what NASGVAM might eventually contain. Its vastness will necessitate exploration through individual perspectives and specialized vectors.
+* **Enhancing Knowledge As-Is:** The primary goal is to enhance **human knowledge as it exists and evolves**, providing clearer, synthesized understanding for both broad learning and deep specialization within specific areas.
+* **Beyond Singularity:** NASGVAM is **not** conceived merely as a pathway to a technological Singularity or the creation of a disembodied super-intelligence. While it could inform such developments, its core purpose is distinctly human-centric.
+* **Condensing the Human Essence:** Fundamentally, NASGVAM seeks to **condense and reflect what it means to be Human** – our accumulated knowledge, wisdom, inquiries, arts, beliefs, limitations, and potential. It aims to be a dynamic mirror to our species' intellectual and spiritual journey.
+* **Essential for Progress:** We believe that striving for such a synthesized understanding is **essential if humanity wishes to achieve greater things** – to navigate complexity, solve critical global challenges, foster deeper cross-disciplinary insight, and unlock new potentials as a species.
+* **Pragmatism Regarding Truth:** While pursuing clarity and rigorous synthesis ('Veritas'), NASGVAM operates with the understanding that absolute, final 'Truth' across all domains may be unattainable for humans. The objective is not a terminal state of perfect knowledge, but rather the continuous pursuit of the **best possible *humanly synthesized* understanding** at any given time, embracing ongoing refinement and dialogue.
+* **The Value of the Attempt:** There is **no failure in the concept of trying**. The very act of attempting this grand synthesis – the striving to organize, connect, and reflect upon our collective knowledge – is inherently valuable for human progress and self-awareness, regardless of reaching an ultimate, perhaps impossible, endpoint.
+
+---
+
 ## The Mausoleum Structure & Cold vs. Live Files
 
 The project is conceptually divided into five core sections, termed "Mausoleums." This metaphor signifies repositories holding deep, respected, often foundational knowledge (**Cold Files**) which become activated, relevant, and integrated into current understanding through active synthesis and application (**Live Files**).
@@ -51,20 +65,6 @@ NASGVAM's structure is conceived as five interconnected "Mausoleums," each delvi
 3.  **[Μαγεία (Magic)](./Mageia/README.md):** Provides a dedicated space, distinct from conventional religion or science, to document and synthesize knowledge concerning phenomena, beliefs, and practices termed "Magic." It includes 'Cold' records of traditions and sources alongside 'Live' synthesized concepts and analyses. ([Explore Scope](./Mageia/README.md))
 4.  **[Πειστικότητα (Cogency/Persuasiveness)](./Peistikotita/README.md):** Focuses on understanding the **human mind itself**. It delves into **how and why it works**, exploring mechanisms of influence, non-verbal communication, cognitive biases, and the complex, often **temporary and contextual intricacies** of psychology, sociology, and cultural interaction through synthesized 'Live' insights. ([Explore Scope](./Peistikotita/README.md))
 5.  **[αφύπνιση (Awakening)](./Aphyphnise/README.md):** Uniquely action-oriented, this Mausoleum consists **solely of 'Live' files dedicated to increasing the concept of Intelligence**. It systematically gathers, synthesizes, and presents every effective technique, method, and strategy aimed specifically at making humans smarter and enhancing cognitive potential. ([Explore Scope](./Aphyphnise/README.md))
-
----
-
-## Philosophical Stance & Purpose
-
-It is crucial to understand what NASGVAM *is* and *is not*, especially differentiating it from purely metaphysical or technological endpoints.
-
-* **Acknowledging Subjectivity:** We recognize that every person understands and sees the world differently. It is unlikely that any single human will ever fully grasp the entirety of what NASGVAM might eventually contain. Its vastness will necessitate exploration through individual perspectives and specialized vectors.
-* **Enhancing Knowledge As-Is:** The primary goal is to enhance **human knowledge as it exists and evolves**, providing clearer, synthesized understanding for both broad learning and deep specialization within specific areas.
-* **Beyond Singularity:** NASGVAM is **not** conceived merely as a pathway to a technological Singularity or the creation of a disembodied super-intelligence. While it could inform such developments, its core purpose is distinctly human-centric.
-* **Condensing the Human Essence:** Fundamentally, NASGVAM seeks to **condense and reflect what it means to be Human** – our accumulated knowledge, wisdom, inquiries, arts, beliefs, limitations, and potential. It aims to be a dynamic mirror to our species' intellectual and spiritual journey.
-* **Essential for Progress:** We believe that striving for such a synthesized understanding is **essential if humanity wishes to achieve greater things** – to navigate complexity, solve critical global challenges, foster deeper cross-disciplinary insight, and unlock new potentials as a species.
-* **Pragmatism Regarding Truth:** While pursuing clarity and rigorous synthesis ('Veritas'), NASGVAM operates with the understanding that absolute, final 'Truth' across all domains may be unattainable for humans. The objective is not a terminal state of perfect knowledge, but rather the continuous pursuit of the **best possible *humanly synthesized* understanding** at any given time, embracing ongoing refinement and dialogue.
-* **The Value of the Attempt:** There is **no failure in the concept of trying**. The very act of attempting this grand synthesis – the striving to organize, connect, and reflect upon our collective knowledge – is inherently valuable for human progress and self-awareness, regardless of reaching an ultimate, perhaps impossible, endpoint.
 
 ---
 
