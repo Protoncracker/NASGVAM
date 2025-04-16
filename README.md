@@ -98,4 +98,4 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) for guidelines on how best to engage wi
 
 The NASGVAM conceptual framework and documentation are publicly licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/), requiring non-commercial use by default. However, the project's goal is broad understanding and positive impact. Parties interested in utilizing NASGVAM concepts or documentation for specific commercial purposes that align with the project's ethical vision (and are not solely focused on reselling the core documentation) are invited to contact Protoncracker directly to discuss the possibility of obtaining a separate commercial license agreement.
 
-The NASGVAM conceptual framework and documentation presented herein are intended for open sharing and development. The proposed license is [Creative Commons Attribution-ShareAlike 4.0 International](./LICENSE) (CC BY-SA 4.0).
+The NASGVAM conceptual framework and documentation presented herein are intended for open sharing and development. The proposed and legally effective as of now license is [Creative Commons Attribution-ShareAlike 4.0 International](./LICENSE) (CC BY-SA 4.0).
