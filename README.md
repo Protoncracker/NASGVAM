@@ -10,14 +10,20 @@
 
 ## The Meaning of NASGVAM
 
-The name **NASGVAM** is an acronym derived from six core concepts, originating from the phrase: *"The Nexus for Anthropos in Sophia and Gnosis to Veritas from Axis Mundi."*
+The name **NASGVAM** is an acronym derived from six core concepts, originating from the phrase:  
+*"The Nexus for Anthropos in Sophia and Gnosis to Veritas from Axis Mundi."*
 
-* **N**exus: A central connection point or hub, facilitating integration.
-* **A**nthropos (Άνθρωπος): Humankind, the subject, creator, and beneficiary.
-* **S**ophia (Σοφία): Wisdom, the aspirational quality and application of knowledge.
-* **G**nosis (Γνῶσις): Knowledge, encompassing factual, intuitive, and experiential understanding.
-* **V**eritas: Truth, the pursued ideal through rigorous synthesis and exploration.
-* **A**xis **M**undi: A foundational source or grounding principle for the project.
+This can be interpreted as:  
+**"The Nexus between Humanity (Anthropos) in the Passion for Knowledge (Gnosis) and Deep Wisdom (Sophia) in Pursuit of Truth (Veritas) from the Axis Mundi (the Center of the World/Universe)."**
+
+- **N**exus: A central connection point or hub, facilitating integration.
+- **A**nthropos (Άνθρωπος): Humankind, the subject, creator, and beneficiary.
+- **S**ophia (Σοφία): Wisdom, the aspirational quality and application of knowledge.
+- **G**nosis (Γνῶσις): Knowledge, encompassing factual, intuitive, and experiential understanding.
+- **V**eritas: Truth, the pursued ideal through rigorous synthesis and exploration.
+- **A**xis **M**undi: The "Center of the World" or "World Axis"—a symbolic grounding point, representing the universal foundation and aspiration for synthesis.
+
+NASGVAM is thus envisioned as the central nexus where humanity's passion for knowledge and wisdom converges in the pursuit of truth, grounded in a universal center. The project aspires to move beyond being just an idea or concept, and to become a practical, living reality—if the community and humanity choose to embrace and build upon it. This is not a solitary endeavor; it cannot be realized by one person alone, nor should it be. Only through collective effort, engagement, and shared vision can NASGVAM become a transformative force. If humanity chooses to ignore or neglect this opportunity, it is humanity itself that stands to lose. The invitation is open: either we build this together, or the potential remains unrealized.
 
 Together, NASGVAM represents the ambitious goal of creating a central, synthesized repository of human knowledge and wisdom, grounded in foundational principles and striving for integrated understanding.
 
@@ -89,5 +95,7 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) for guidelines on how best to engage wi
 ---
 
 ## License
+
+The NASGVAM conceptual framework and documentation are publicly licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/), requiring non-commercial use by default. However, the project's goal is broad understanding and positive impact. Parties interested in utilizing NASGVAM concepts or documentation for specific commercial purposes that align with the project's ethical vision (and are not solely focused on reselling the core documentation) are invited to contact Protoncracker directly to discuss the possibility of obtaining a separate commercial license agreement.
 
 The NASGVAM conceptual framework and documentation presented herein are intended for open sharing and development. The proposed license is [Creative Commons Attribution-ShareAlike 4.0 International](./LICENSE) (CC BY-SA 4.0).
